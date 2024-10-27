@@ -1,0 +1,7 @@
+[Default Applications]
+application/x-executable=google-chrome.desktop
+inode/directory=org.kde.dolphin.desktop
+x-scheme-handler/jetbrains=jetbrains-toolbox.desktop
+
+[Added Associations]
+application/x-executable=code-oss.desktop;google-chrome.desktop;

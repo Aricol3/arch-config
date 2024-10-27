@@ -1,0 +1,3 @@
+connect.dial_devices="[{\"address\":\"192.168.100.53\",\"app_state\":\"INSTALLED\",\"created_timestamp\":1728640249,\"device_id\":\"0d01a320-f2de-4112-bfd3-0bc054a37cc1\",\"dial_location_url\":\"http://192.168.100.53:1229/\",\"display_name\":\"[LG] webOS TV QNED7S3QA\",\"last_seen\":1728640256,\"manufacturer\":\"LG\",\"model_name\":\"50QNED7S3QA\",\"product_cap\":\"\",\"public_ip\":\"2a02:2f0e:3101:de00:4404:68f0:c87c:f19c\",\"wol\":{\"all_interfaces\":false,\"delay_ms\":50,\"mac\":\"4cbad750dc3c\",\"port\":9,\"retries\":2400}}]"
+audio.play_bitrate_non_metered_migrated=true
+app.player.volume=42280

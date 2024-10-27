@@ -1,0 +1,27 @@
+# Sensitive or system-specific directories
+dconf/
+pulse/
+procps/
+Thunar/
+google-chrome/
+session/
+yarn/
+enchant/
+trashrc
+user-dirs.dirs
+user-dirs.locale
+
+# Cache or temporary files
+*.swp
+*~
+*.bak
+*.tmp
+*.log
+
+# Editor-specific settings
+JetBrains/
+gedit/
+
+# Backup configs
+cfg_backups/
+
